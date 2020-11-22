@@ -1,1 +1,2 @@
 text1 from master repo (test3)
+text2 from fork
